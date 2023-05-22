@@ -19,7 +19,7 @@ import {
     starbucks,
     tesla,
     shopify,
-    carrent,
+    bug,
     jobit,
     tripguide,
     threejs,
@@ -233,7 +233,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: bug,
       source_code_link: "https://github.com/",
     },
     {

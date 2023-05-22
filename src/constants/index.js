@@ -97,7 +97,7 @@ import {
       icon: threejs,
     },
     {
-      name: "github",
+      name: "Github",
       icon: github,
     },
     {

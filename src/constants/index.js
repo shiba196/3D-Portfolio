@@ -19,6 +19,8 @@ import {
     starbucks,
     tesla,
     shopify,
+    bdw,
+    aqb,
     bug,
     jobit,
     tripguide,
@@ -200,20 +202,20 @@ import {
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
         {
-          name: "react",
+          name: "PHP",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "CSS",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "SQL",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: bdw,
+      source_code_link: "https://github.com/shiba196/Blood-Donation-website",
     },
     {
       name: "Bug Detection",
@@ -234,7 +236,7 @@ import {
         },
       ],
       image: bug,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/shiba196/Bug-Detection",
     },
     {
       name: "Any question answer website",
@@ -246,16 +248,16 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "OpenAI API",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "tailwindcss",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: aqb,
+      source_code_link: "https://github.com/shiba196/any-question-answer-website",
     },
   ];
   

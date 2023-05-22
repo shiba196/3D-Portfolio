@@ -19,6 +19,10 @@ import {
     aqb,
     bug,
     threejs,
+    github1,
+    tensorflow,
+    android,
+    analyst,
   } from "../assets";
   
   export const navLinks = [
@@ -39,19 +43,19 @@ import {
   const services = [
     {
       title: "Web Developer",
-      icon: web,
+      icon: html,
     },
     {
       title: "Android app Developer",
-      icon: mobile,
+      icon: android,
     },
     {
       title: "UI/UX Designer",
-      icon: backend,
+      icon: figma,
     },
     {
       title: "Data analyst",
-      icon: creator,
+      icon: analyst,
     },
   ];
   
@@ -97,16 +101,16 @@ import {
       icon: threejs,
     },
     {
-      name: "Github",
-      icon: github,
+      name: "git",
+      icon: github1,
     },
     {
       name: "figma",
       icon: figma,
     },
     {
-      name: "docker",
-      icon: docker,
+      name: "tensorflow",
+      icon: tensorflow,
     },
   ];
   
@@ -127,7 +131,7 @@ import {
     {
       title: "Android App Developer",
       company_name: "",
-      icon: mobile,
+      icon: android,
       iconBg: "#E6DEDD",
       date: "",
       points: [
@@ -140,7 +144,7 @@ import {
     {
       title: "Web Developer",
       company_name: "",
-      icon: reactjs,
+      icon: html,
       iconBg: "#383E56",
       date: "",
       points: [
@@ -235,7 +239,7 @@ import {
     {
       name: "Any question answer website",
       description:
-        "A look alike ChatGPT which approximately answers all questions.",
+        "A look alike ChatGPT which approximately answers all questions",
       tags: [
         {
           name: "nextjs",

@@ -29,6 +29,10 @@ import tesla from "./company/tesla.png";
 import aqb from "./aqb.png";
 import bdw from "./bdw.png";
 import bug from "./bug.png";
+import github1 from "./github1.png"
+import tensorflow from "./ensor.png"
+import android from "./android.png"
+import analyst from "./analyst.png"
 
 
 export {
@@ -48,6 +52,7 @@ export {
   javascript,
   mongodb,
   nodejs,
+  github1,
   reactjs,
   redux,
   tailwind,
@@ -60,4 +65,7 @@ export {
   aqb,
   bdw,
   bug,
+  tensorflow,
+  android,
+  analyst,
 };

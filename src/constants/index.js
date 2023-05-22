@@ -22,8 +22,6 @@ import {
     bdw,
     aqb,
     bug,
-    jobit,
-    tripguide,
     threejs,
   } from "../assets";
   

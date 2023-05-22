@@ -33,6 +33,7 @@ import github1 from "./github1.png"
 import tensorflow from "./ensor.png"
 import android from "./android.png"
 import analyst from "./analyst.png"
+import shibam from "./S.png"
 
 
 export {
@@ -68,4 +69,5 @@ export {
   tensorflow,
   android,
   analyst,
+  shibam,
 };

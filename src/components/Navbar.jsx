@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { styles } from "../styles";
 import { navLinks } from "../constants";
-import { logo, menu, close } from "../assets";
+import { shibam, menu, close } from "../assets";
 
 const Navbar = () => {
   const[active,setActive]= useState('');
@@ -19,8 +19,8 @@ const Navbar = () => {
             setActive("");
             window.scroll(0, 0);
           }}
-        > <img src={logo} alt="logo" className="w-9 h-9 object-contain"/>
-        <p className="text-white text-[18px] font-bold cursor-pointer flex"> Shibam &nbsp;
+        > <img src={shibam} alt="logo" className="w-50 h-50 object-contain"/>
+        <p className="text-white text-[18px] font-bold cursor-pointer flex">  &nbsp;
         {/* <span className="sm:block hidden">|</span> */}
         </p>
         </Link>
